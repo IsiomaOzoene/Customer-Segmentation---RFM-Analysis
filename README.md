@@ -1,8 +1,9 @@
 # Customer-Segmentation---RFM-Analysis
 1. Overview
+   
 This project analyzes customer behavior using Recency, Frequency, and Monetary (RFM) analysis to segment customers and recommend targeted marketing strategies aimed at boosting customer engagement and retention for each segment.
 
-2. RFM Logic
+3. RFM Logic
    
 Recency (R): Days since last purchase
 
