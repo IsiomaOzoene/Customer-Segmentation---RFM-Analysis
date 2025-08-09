@@ -26,6 +26,7 @@ Removed transactions where Quantity <= 0.
 SQL:
 
 Removed cancelled invoices (InvoiceNo starting with “C”).
+
 Removed rows with blank CustomerID.
 
 5. RFM Analysis Steps
